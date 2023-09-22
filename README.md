@@ -5,4 +5,4 @@ Our NN will have a simple two-layer architecture. Input layer  a[0]
   will have 10 units with ReLU activation, and finally our output layer  a[2]
   will have 10 units corresponding to the ten digit classes with softmax activation.
 
-[![Structure](https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras?cellIds=5&kernelSessionId=47652503)](https://github.com/anurag-bit/characterRecognitionFromScratch)
+[!(https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras?cellIds=5&kernelSessionId=47652503)](https://github.com/anurag-bit/characterRecognitionFromScratch)
